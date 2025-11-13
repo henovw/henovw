@@ -1,8 +1,8 @@
-## Henry van Weelderen
+# Henry van Weelderen
 
 henryvw.com
 
-# Projects
+## Projects
 
 - I'm currently working on a roommate-finder app using Swift and Firebase
 - I'm on UBC Open Robotics, where I'm a part of the software team, currently doing backend for a sensor reading software in C++
