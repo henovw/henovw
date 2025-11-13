@@ -3,6 +3,8 @@
 
 henryvw.com
 
+I am a second-year student looking to collaborate with anyone who has a drive to build something great. Please reach out at henryvanweelderen@gmail.com if you want to work on any projects with me. 
+
 ## Projects
 
 - I'm currently working on a roommate-finder app using Swift and Firebase
