@@ -1,4 +1,4 @@
-## About me
+# About me
 ### Software Developer - Computer Science @ UBC
 
 henryvw.com
