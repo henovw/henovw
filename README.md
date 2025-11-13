@@ -1,9 +1,9 @@
-# Henry van Weelderen
+## About me
 ### Software Developer - Computer Science @ UBC
 
 henryvw.com
 
-I am a second-year student looking to collaborate with anyone who has a drive to build something great. Please reach out at henryvanweelderen@gmail.com if you want to work on any projects with me. 
+- I am a second-year student looking to collaborate with anyone who has a drive to build something great. Please reach out at henryvanweelderen@gmail.com if you want to work on any projects with me. 
 
 ## Projects
 
