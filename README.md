@@ -1,5 +1,5 @@
 # Henry van Weelderen
-## Software Developer - Computer Science @ UBC
+### Software Developer - Computer Science @ UBC
 
 henryvw.com
 
